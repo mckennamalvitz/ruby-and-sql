@@ -16,6 +16,8 @@ Company.destroy_all
 
 # 2. insert new rows in companies table
 
+puts "There are N companies"
+
 # 3. query companies table to find all row with California company
 
 # 4. query companies table to find single row for Apple
